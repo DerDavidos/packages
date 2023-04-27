@@ -11,5 +11,8 @@
     "url": "https://github.com/DerDavidos/packages"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@DerDavidos:registry": "https://npm.pkg.github.com"
+  }
 }
